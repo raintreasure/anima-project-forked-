@@ -1,0 +1,2671 @@
+.AISI {
+  background-color: #0b0b0d;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.AISI .div {
+  background-color: #0b0b0d;
+  height: 6009px;
+  position: relative;
+  width: 1440px;
+}
+
+.AISI .overlap {
+  height: 1313px;
+  left: 80px;
+  position: absolute;
+  top: 4436px;
+  width: 1280px;
+}
+
+.AISI .rectangle {
+  height: 620px;
+  left: 0;
+  position: absolute;
+  top: 693px;
+  width: 1280px;
+}
+
+.AISI .img {
+  height: 462px;
+  left: 0;
+  position: absolute;
+  top: 317px;
+  width: 1280px;
+}
+
+.AISI .group {
+  height: 301px;
+  left: 75px;
+  position: absolute;
+  top: 432px;
+  transform: rotate(180deg);
+  width: 334px;
+}
+
+.AISI .overlap-group {
+  height: 301px;
+  position: relative;
+}
+
+.AISI .alap {
+  height: 173px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 334px;
+}
+
+.AISI .rnykok {
+  height: 126px;
+  left: 77px;
+  position: absolute;
+  top: 25px;
+  transform: rotate(-180deg);
+  width: 257px;
+}
+
+.AISI .httr {
+  height: 232px;
+  left: 46px;
+  position: absolute;
+  top: 69px;
+  transform: rotate(-180deg);
+  width: 262px;
+}
+
+.AISI .eltr {
+  height: 190px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  transform: rotate(-180deg);
+  width: 305px;
+}
+
+.AISI .emberek {
+  height: 184px;
+  left: 103px;
+  position: absolute;
+  top: 38px;
+  transform: rotate(-180deg);
+  width: 199px;
+}
+
+.AISI .rectangle-2 {
+  height: 374px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 1280px;
+}
+
+.AISI .frame {
+  height: 355px;
+  left: 855px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 353px;
+}
+
+.AISI .layer-wrapper {
+  height: 355px;
+  left: -6px;
+  position: relative;
+  width: 358px;
+}
+
+.AISI .layer {
+  height: 355px;
+}
+
+.AISI .overlap-2 {
+  height: 355px;
+  left: 6px;
+  position: relative;
+  width: 352px;
+}
+
+.AISI .overlap-group-2 {
+  height: 285px;
+  left: 0;
+  position: absolute;
+  top: 71px;
+  width: 352px;
+}
+
+.AISI .vector {
+  height: 203px;
+  left: 5px;
+  position: absolute;
+  top: 73px;
+  width: 332px;
+}
+
+.AISI .vector-2 {
+  height: 203px;
+  left: 5px;
+  position: absolute;
+  top: 69px;
+  width: 332px;
+}
+
+.AISI .vector-3 {
+  height: 23px;
+  left: 288px;
+  position: absolute;
+  top: 115px;
+  width: 64px;
+}
+
+.AISI .vector-4 {
+  height: 36px;
+  left: 289px;
+  position: absolute;
+  top: 97px;
+  width: 63px;
+}
+
+.AISI .vector-5 {
+  height: 37px;
+  left: 288px;
+  position: absolute;
+  top: 96px;
+  width: 64px;
+}
+
+.AISI .vector-6 {
+  height: 23px;
+  left: 272px;
+  position: absolute;
+  top: 235px;
+  width: 64px;
+}
+
+.AISI .vector-7 {
+  height: 36px;
+  left: 273px;
+  position: absolute;
+  top: 217px;
+  width: 63px;
+}
+
+.AISI .img-2 {
+  height: 37px;
+  left: 272px;
+  position: absolute;
+  top: 217px;
+  width: 64px;
+}
+
+.AISI .vector-8 {
+  height: 24px;
+  left: 34px;
+  position: absolute;
+  top: 252px;
+  width: 14px;
+}
+
+.AISI .vector-9 {
+  height: 41px;
+  left: 81px;
+  position: absolute;
+  top: 180px;
+  width: 36px;
+}
+
+.AISI .vector-10 {
+  height: 23px;
+  left: 81px;
+  position: absolute;
+  top: 254px;
+  width: 64px;
+}
+
+.AISI .vector-11 {
+  height: 23px;
+  left: 208px;
+  position: absolute;
+  top: 235px;
+  width: 32px;
+}
+
+.AISI .vector-12 {
+  height: 23px;
+  left: 304px;
+  position: absolute;
+  top: 235px;
+  width: 32px;
+}
+
+.AISI .vector-13 {
+  height: 23px;
+  left: 320px;
+  position: absolute;
+  top: 115px;
+  width: 32px;
+}
+
+.AISI .vector-14 {
+  height: 23px;
+  left: 272px;
+  position: absolute;
+  top: 198px;
+  width: 32px;
+}
+
+.AISI .vector-15 {
+  height: 23px;
+  left: 240px;
+  position: absolute;
+  top: 217px;
+  width: 32px;
+}
+
+.AISI .vector-16 {
+  height: 23px;
+  left: 304px;
+  position: absolute;
+  top: 180px;
+  width: 32px;
+}
+
+.AISI .vector-17 {
+  height: 13px;
+  left: 49px;
+  position: absolute;
+  top: 272px;
+  width: 64px;
+}
+
+.AISI .vector-18 {
+  height: 101px;
+  left: 34px;
+  position: absolute;
+  top: 180px;
+  width: 190px;
+}
+
+.AISI .vector-19 {
+  height: 1px;
+  left: 81px;
+  position: absolute;
+  top: 253px;
+  width: 64px;
+}
+
+.AISI .vector-20 {
+  height: 37px;
+  left: 48px;
+  position: absolute;
+  top: 217px;
+  width: 64px;
+}
+
+.AISI .vector-21 {
+  height: 37px;
+  left: 48px;
+  position: absolute;
+  top: 180px;
+  width: 64px;
+}
+
+.AISI .vector-22 {
+  height: 37px;
+  left: 48px;
+  position: absolute;
+  top: 235px;
+  width: 64px;
+}
+
+.AISI .vector-23 {
+  height: 65px;
+  left: 48px;
+  position: absolute;
+  top: 207px;
+  width: 112px;
+}
+
+.AISI .vector-24 {
+  height: 65px;
+  left: 80px;
+  position: absolute;
+  top: 189px;
+  width: 64px;
+}
+
+.AISI .vector-25 {
+  height: 37px;
+  left: 144px;
+  position: absolute;
+  top: 235px;
+  width: 64px;
+}
+
+.AISI .vector-26 {
+  height: 37px;
+  left: 16px;
+  position: absolute;
+  top: 161px;
+  width: 64px;
+}
+
+.AISI .vector-27 {
+  height: 37px;
+  left: 208px;
+  position: absolute;
+  top: 198px;
+  width: 64px;
+}
+
+.AISI .vector-28 {
+  height: 1px;
+  left: 17px;
+  position: absolute;
+  top: 180px;
+  width: 64px;
+}
+
+.AISI .vector-29 {
+  height: 1px;
+  left: 208px;
+  position: absolute;
+  top: 216px;
+  width: 64px;
+}
+
+.AISI .vector-30 {
+  height: 36px;
+  left: 273px;
+  position: absolute;
+  top: 161px;
+  width: 63px;
+}
+
+.AISI .vector-31 {
+  height: 37px;
+  left: 272px;
+  position: absolute;
+  top: 161px;
+  width: 64px;
+}
+
+.AISI .vector-32 {
+  height: 93px;
+  left: 177px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 142px;
+  width: 160px;
+}
+
+.AISI .vector-33 {
+  height: 19px;
+  left: 112px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 235px;
+  width: 48px;
+}
+
+.AISI .vector-34 {
+  height: 19px;
+  left: 49px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 143px;
+  width: 48px;
+}
+
+.AISI .vector-35 {
+  height: 19px;
+  left: 112px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 180px;
+  width: 48px;
+}
+
+.AISI .vector-36 {
+  height: 12px;
+  left: 190px;
+  position: absolute;
+  top: 229px;
+  width: 16px;
+}
+
+.AISI .vector-37 {
+  height: 9px;
+  left: 195px;
+  position: absolute;
+  top: 231px;
+  width: 12px;
+}
+
+.AISI .vector-38 {
+  height: 84px;
+  left: 206px;
+  position: absolute;
+  top: 148px;
+  width: 143px;
+}
+
+.AISI .vector-39 {
+  height: 3px;
+  left: 191px;
+  position: absolute;
+  top: 237px;
+  width: 4px;
+}
+
+.AISI .vector-40 {
+  height: 185px;
+  left: 113px;
+  position: absolute;
+  top: 13px;
+  width: 160px;
+}
+
+.AISI .vector-41 {
+  height: 19px;
+  left: 144px;
+  position: absolute;
+  top: 142px;
+  width: 32px;
+}
+
+.AISI .vector-42 {
+  height: 148px;
+  left: 176px;
+  position: absolute;
+  top: 87px;
+  width: 96px;
+}
+
+.AISI .vector-43 {
+  height: 37px;
+  left: 176px;
+  position: absolute;
+  top: 32px;
+  width: 32px;
+}
+
+.AISI .vector-44 {
+  height: 37px;
+  left: 81px;
+  position: absolute;
+  top: 87px;
+  width: 32px;
+}
+
+.AISI .vector-45 {
+  height: 37px;
+  left: 112px;
+  position: absolute;
+  top: 50px;
+  width: 32px;
+}
+
+.AISI .vector-46 {
+  height: 148px;
+  left: 81px;
+  position: absolute;
+  top: 87px;
+  width: 96px;
+}
+
+.AISI .vector-47 {
+  height: 11px;
+  left: 258px;
+  position: absolute;
+  top: 162px;
+  width: 3px;
+}
+
+.AISI .vector-48 {
+  height: 10px;
+  left: 252px;
+  position: absolute;
+  top: 164px;
+  width: 6px;
+}
+
+.AISI .vector-49 {
+  height: 7px;
+  left: 252px;
+  position: absolute;
+  top: 171px;
+  width: 9px;
+}
+
+.AISI .vector-50 {
+  height: 11px;
+  left: 91px;
+  position: absolute;
+  top: 125px;
+  width: 3px;
+}
+
+.AISI .vector-51 {
+  height: 10px;
+  left: 95px;
+  position: absolute;
+  top: 127px;
+  width: 6px;
+}
+
+.AISI .vector-52 {
+  height: 7px;
+  left: 91px;
+  position: absolute;
+  top: 134px;
+  width: 9px;
+}
+
+.AISI .vector-53 {
+  height: 28px;
+  left: 96px;
+  position: absolute;
+  top: 226px;
+  width: 16px;
+}
+
+.AISI .vector-54 {
+  height: 28px;
+  left: 112px;
+  position: absolute;
+  top: 226px;
+  width: 16px;
+}
+
+.AISI .vector-55 {
+  height: 18px;
+  left: 96px;
+  position: absolute;
+  top: 217px;
+  width: 32px;
+}
+
+.AISI .vector-56 {
+  height: 28px;
+  left: 17px;
+  position: absolute;
+  top: 124px;
+  width: 16px;
+}
+
+.AISI .vector-57 {
+  height: 28px;
+  left: 33px;
+  position: absolute;
+  top: 124px;
+  width: 16px;
+}
+
+.AISI .vector-58 {
+  height: 18px;
+  left: 17px;
+  position: absolute;
+  top: 115px;
+  width: 32px;
+}
+
+.AISI .vector-59 {
+  height: 6px;
+  left: 22px;
+  position: absolute;
+  top: 133px;
+  width: 2px;
+}
+
+.AISI .vector-60 {
+  height: 6px;
+  left: 24px;
+  position: absolute;
+  top: 135px;
+  width: 4px;
+}
+
+.AISI .vector-61 {
+  height: 4px;
+  left: 22px;
+  position: absolute;
+  top: 139px;
+  width: 6px;
+}
+
+.AISI .vector-62 {
+  height: 28px;
+  left: 33px;
+  position: absolute;
+  top: 133px;
+  width: 16px;
+}
+
+.AISI .vector-63 {
+  height: 28px;
+  left: 49px;
+  position: absolute;
+  top: 133px;
+  width: 16px;
+}
+
+.AISI .vector-64 {
+  height: 18px;
+  left: 33px;
+  position: absolute;
+  top: 124px;
+  width: 32px;
+}
+
+.AISI .vector-65 {
+  height: 18px;
+  left: 33px;
+  position: absolute;
+  top: 106px;
+  width: 32px;
+}
+
+.AISI .vector-66 {
+  height: 28px;
+  left: 64px;
+  position: absolute;
+  top: 124px;
+  width: 16px;
+}
+
+.AISI .vector-67 {
+  height: 18px;
+  left: 49px;
+  position: absolute;
+  top: 115px;
+  width: 32px;
+}
+
+.AISI .vector-68 {
+  height: 38px;
+  left: 208px;
+  position: absolute;
+  top: 142px;
+  width: 64px;
+}
+
+.AISI .vector-69 {
+  height: 55px;
+  left: 144px;
+  position: absolute;
+  top: 88px;
+  width: 32px;
+}
+
+.AISI .vector-70 {
+  height: 55px;
+  left: 144px;
+  position: absolute;
+  top: 124px;
+  width: 32px;
+}
+
+.AISI .vector-71 {
+  height: 55px;
+  left: 240px;
+  position: absolute;
+  top: 69px;
+  width: 32px;
+}
+
+.AISI .vector-72 {
+  height: 11px;
+  left: 226px;
+  position: absolute;
+  top: 107px;
+  width: 3px;
+}
+
+.AISI .vector-73 {
+  height: 10px;
+  left: 220px;
+  position: absolute;
+  top: 109px;
+  width: 6px;
+}
+
+.AISI .vector-74 {
+  height: 7px;
+  left: 220px;
+  position: absolute;
+  top: 116px;
+  width: 9px;
+}
+
+.AISI .vector-75 {
+  height: 37px;
+  left: 177px;
+  position: absolute;
+  top: 69px;
+  width: 64px;
+}
+
+.AISI .vector-76 {
+  height: 28px;
+  left: 194px;
+  position: absolute;
+  top: 195px;
+  width: 2px;
+}
+
+.AISI .vector-77 {
+  height: 28px;
+  left: 190px;
+  position: absolute;
+  top: 196px;
+  width: 4px;
+}
+
+.AISI .vector-78 {
+  height: 4px;
+  left: 190px;
+  position: absolute;
+  top: 223px;
+  width: 6px;
+}
+
+.AISI .vector-79 {
+  height: 18px;
+  left: 80px;
+  position: absolute;
+  top: 258px;
+  width: 1px;
+}
+
+.AISI .vector-80 {
+  height: 5px;
+  left: 76px;
+  position: absolute;
+  top: 254px;
+  width: 8px;
+}
+
+.AISI .vector-81 {
+  height: 4px;
+  left: 76px;
+  position: absolute;
+  top: 251px;
+  width: 9px;
+}
+
+.AISI .vector-82 {
+  height: 1px;
+  left: 80px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 275px;
+  width: 12px;
+}
+
+.AISI .vector-83 {
+  height: 18px;
+  left: 176px;
+  position: absolute;
+  top: 247px;
+  width: 1px;
+}
+
+.AISI .vector-84 {
+  height: 5px;
+  left: 173px;
+  position: absolute;
+  top: 243px;
+  width: 8px;
+}
+
+.AISI .vector-85 {
+  height: 4px;
+  left: 172px;
+  position: absolute;
+  top: 241px;
+  width: 9px;
+}
+
+.AISI .vector-86 {
+  height: 1px;
+  left: 176px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 264px;
+  width: 12px;
+}
+
+.AISI .vector-87 {
+  height: 18px;
+  left: 322px;
+  position: absolute;
+  top: 162px;
+  width: 1px;
+}
+
+.AISI .vector-88 {
+  height: 5px;
+  left: 319px;
+  position: absolute;
+  top: 159px;
+  width: 8px;
+}
+
+.AISI .vector-89 {
+  height: 4px;
+  left: 319px;
+  position: absolute;
+  top: 156px;
+  width: 9px;
+}
+
+.AISI .vector-90 {
+  height: 18px;
+  left: 41px;
+  position: absolute;
+  top: 236px;
+  width: 1px;
+}
+
+.AISI .vector-91 {
+  height: 5px;
+  left: 37px;
+  position: absolute;
+  top: 233px;
+  width: 8px;
+}
+
+.AISI .vector-92 {
+  height: 4px;
+  left: 37px;
+  position: absolute;
+  top: 230px;
+  width: 9px;
+}
+
+.AISI .vector-93 {
+  height: 1px;
+  left: 41px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 254px;
+  width: 12px;
+}
+
+.AISI .vector-94 {
+  height: 6px;
+  left: 250px;
+  position: absolute;
+  top: 88px;
+  width: 2px;
+}
+
+.AISI .vector-95 {
+  height: 6px;
+  left: 246px;
+  position: absolute;
+  top: 89px;
+  width: 4px;
+}
+
+.AISI .vector-96 {
+  height: 4px;
+  left: 246px;
+  position: absolute;
+  top: 93px;
+  width: 6px;
+}
+
+.AISI .vector-97 {
+  height: 6px;
+  left: 265px;
+  position: absolute;
+  top: 96px;
+  width: 2px;
+}
+
+.AISI .vector-98 {
+  height: 6px;
+  left: 262px;
+  position: absolute;
+  top: 98px;
+  width: 4px;
+}
+
+.AISI .vector-99 {
+  height: 4px;
+  left: 262px;
+  position: absolute;
+  top: 102px;
+  width: 6px;
+}
+
+.AISI .vector-100 {
+  height: 6px;
+  left: 265px;
+  position: absolute;
+  top: 78px;
+  width: 2px;
+}
+
+.AISI .vector-101 {
+  height: 6px;
+  left: 262px;
+  position: absolute;
+  top: 79px;
+  width: 4px;
+}
+
+.AISI .vector-102 {
+  height: 4px;
+  left: 262px;
+  position: absolute;
+  top: 83px;
+  width: 6px;
+}
+
+.AISI .vector-103 {
+  height: 28px;
+  left: 240px;
+  position: absolute;
+  top: 96px;
+  width: 16px;
+}
+
+.AISI .vector-104 {
+  height: 18px;
+  left: 144px;
+  position: absolute;
+  top: 143px;
+  width: 32px;
+}
+
+.AISI .vector-105 {
+  height: 1px;
+  left: 176px;
+  position: absolute;
+  top: 161px;
+  width: 1px;
+}
+
+.AISI .vector-106 {
+  height: 19px;
+  left: 176px;
+  position: absolute;
+  top: 143px;
+  width: 32px;
+}
+
+.AISI .vector-107 {
+  height: 52px;
+  left: 87px;
+  position: absolute;
+  top: 63px;
+  width: 52px;
+}
+
+.AISI .vector-108 {
+  height: 52px;
+  left: 278px;
+  position: absolute;
+  top: 186px;
+  width: 52px;
+}
+
+.AISI .vector-109 {
+  height: 55px;
+  left: 113px;
+  position: absolute;
+  top: 87px;
+  width: 32px;
+}
+
+.AISI .vector-110 {
+  height: 37px;
+  left: 113px;
+  position: absolute;
+  top: 69px;
+  width: 64px;
+}
+
+.AISI .vector-111 {
+  height: 38px;
+  left: 80px;
+  position: absolute;
+  top: 105px;
+  width: 64px;
+}
+
+.AISI .vector-112 {
+  height: 56px;
+  left: 112px;
+  position: absolute;
+  top: 50px;
+  width: 96px;
+}
+
+.AISI .vector-113 {
+  height: 56px;
+  left: 144px;
+  position: absolute;
+  top: 32px;
+  width: 96px;
+}
+
+.AISI .vector-114 {
+  height: 19px;
+  left: 176px;
+  position: absolute;
+  top: 161px;
+  width: 32px;
+}
+
+.AISI .vector-115 {
+  height: 37px;
+  left: 256px;
+  position: absolute;
+  top: 78px;
+  width: 1px;
+}
+
+.AISI .vector-116 {
+  height: 19px;
+  left: 240px;
+  position: absolute;
+  top: 87px;
+  width: 32px;
+}
+
+.AISI .vector-117 {
+  height: 6px;
+  left: 218px;
+  position: absolute;
+  top: 180px;
+  width: 2px;
+}
+
+.AISI .vector-118 {
+  height: 6px;
+  left: 214px;
+  position: absolute;
+  top: 181px;
+  width: 4px;
+}
+
+.AISI .vector-119 {
+  height: 4px;
+  left: 214px;
+  position: absolute;
+  top: 185px;
+  width: 6px;
+}
+
+.AISI .vector-120 {
+  height: 6px;
+  left: 233px;
+  position: absolute;
+  top: 189px;
+  width: 2px;
+}
+
+.AISI .vector-121 {
+  height: 6px;
+  left: 230px;
+  position: absolute;
+  top: 190px;
+  width: 4px;
+}
+
+.AISI .vector-122 {
+  height: 4px;
+  left: 230px;
+  position: absolute;
+  top: 194px;
+  width: 6px;
+}
+
+.AISI .vector-123 {
+  height: 6px;
+  left: 233px;
+  position: absolute;
+  top: 170px;
+  width: 2px;
+}
+
+.AISI .vector-124 {
+  height: 6px;
+  left: 230px;
+  position: absolute;
+  top: 172px;
+  width: 4px;
+}
+
+.AISI .vector-125 {
+  height: 4px;
+  left: 230px;
+  position: absolute;
+  top: 176px;
+  width: 6px;
+}
+
+.AISI .vector-126 {
+  height: 28px;
+  left: 208px;
+  position: absolute;
+  top: 189px;
+  width: 16px;
+}
+
+.AISI .vector-127 {
+  height: 37px;
+  left: 224px;
+  position: absolute;
+  top: 170px;
+  width: 1px;
+}
+
+.AISI .vector-128 {
+  height: 19px;
+  left: 208px;
+  position: absolute;
+  top: 179px;
+  width: 32px;
+}
+
+.AISI .vector-129 {
+  height: 55px;
+  left: 81px;
+  position: absolute;
+  top: 143px;
+  width: 32px;
+}
+
+.AISI .vector-130 {
+  height: 6px;
+  left: 101px;
+  position: absolute;
+  top: 161px;
+  width: 2px;
+}
+
+.AISI .vector-131 {
+  height: 6px;
+  left: 103px;
+  position: absolute;
+  top: 163px;
+  width: 4px;
+}
+
+.AISI .vector-132 {
+  height: 4px;
+  left: 101px;
+  position: absolute;
+  top: 167px;
+  width: 6px;
+}
+
+.AISI .vector-133 {
+  height: 6px;
+  left: 86px;
+  position: absolute;
+  top: 170px;
+  width: 2px;
+}
+
+.AISI .vector-134 {
+  height: 6px;
+  left: 88px;
+  position: absolute;
+  top: 171px;
+  width: 4px;
+}
+
+.AISI .vector-135 {
+  height: 4px;
+  left: 86px;
+  position: absolute;
+  top: 176px;
+  width: 6px;
+}
+
+.AISI .vector-136 {
+  height: 28px;
+  left: 97px;
+  position: absolute;
+  top: 170px;
+  width: 16px;
+}
+
+.AISI .vector-137 {
+  height: 6px;
+  left: 101px;
+  position: absolute;
+  top: 180px;
+  width: 2px;
+}
+
+.AISI .vector-138 {
+  height: 6px;
+  left: 103px;
+  position: absolute;
+  top: 181px;
+  width: 4px;
+}
+
+.AISI .vector-139 {
+  height: 4px;
+  left: 101px;
+  position: absolute;
+  top: 185px;
+  width: 6px;
+}
+
+.AISI .vector-140 {
+  height: 37px;
+  left: 96px;
+  position: absolute;
+  top: 152px;
+  width: 1px;
+}
+
+.AISI .vector-141 {
+  height: 19px;
+  left: 80px;
+  position: absolute;
+  top: 161px;
+  width: 32px;
+}
+
+.AISI .vector-142 {
+  height: 19px;
+  left: 112px;
+  position: absolute;
+  top: 87px;
+  width: 32px;
+}
+
+.AISI .vector-143 {
+  height: 84px;
+  left: 112px;
+  position: absolute;
+  top: 114px;
+  width: 1px;
+}
+
+.AISI .vector-144 {
+  height: 38px;
+  left: 32px;
+  position: absolute;
+  top: 115px;
+  width: 32px;
+}
+
+.AISI .vector-145 {
+  height: 19px;
+  left: 16px;
+  position: absolute;
+  top: 124px;
+  width: 32px;
+}
+
+.AISI .vector-146 {
+  height: 19px;
+  left: 32px;
+  position: absolute;
+  top: 115px;
+  width: 32px;
+}
+
+.AISI .vector-147 {
+  height: 19px;
+  left: 64px;
+  position: absolute;
+  top: 133px;
+  width: 1px;
+}
+
+.AISI .vector-148 {
+  height: 19px;
+  left: 176px;
+  position: absolute;
+  top: 69px;
+  width: 32px;
+}
+
+.AISI .vector-149 {
+  height: 19px;
+  left: 224px;
+  position: absolute;
+  top: 60px;
+  width: 32px;
+}
+
+.AISI .vector-150 {
+  height: 25px;
+  left: 135px;
+  position: absolute;
+  top: 50px;
+  width: 42px;
+}
+
+.AISI .vector-151 {
+  height: 11px;
+  left: 124px;
+  position: absolute;
+  top: 107px;
+  width: 3px;
+}
+
+.AISI .vector-152 {
+  height: 10px;
+  left: 127px;
+  position: absolute;
+  top: 109px;
+  width: 6px;
+}
+
+.AISI .vector-153 {
+  height: 7px;
+  left: 124px;
+  position: absolute;
+  top: 116px;
+  width: 9px;
+}
+
+.AISI .clip-path-group {
+  height: 55px;
+  left: 240px;
+  position: absolute;
+  top: 106px;
+  width: 32px;
+}
+
+.AISI .vector-154 {
+  height: 37px;
+  left: 208px;
+  position: absolute;
+  top: 106px;
+  width: 64px;
+}
+
+.AISI .vector-155 {
+  height: 111px;
+  left: 240px;
+  position: absolute;
+  top: 87px;
+  width: 1px;
+}
+
+.AISI .vector-156 {
+  height: 37px;
+  left: 208px;
+  position: absolute;
+  top: 180px;
+  width: 1px;
+}
+
+.AISI .vector-157 {
+  height: 19px;
+  left: 224px;
+  position: absolute;
+  top: 59px;
+  width: 32px;
+}
+
+.AISI .vector-158 {
+  height: 37px;
+  left: 113px;
+  position: absolute;
+  top: 161px;
+  width: 32px;
+}
+
+.AISI .clip-path-group-2 {
+  height: 55px;
+  left: 113px;
+  position: absolute;
+  top: 161px;
+  width: 32px;
+}
+
+.AISI .vector-159 {
+  height: 101px;
+  left: 144px;
+  position: absolute;
+  top: 105px;
+  width: 1px;
+}
+
+.AISI .vector-160 {
+  height: 56px;
+  left: 80px;
+  position: absolute;
+  top: 143px;
+  width: 96px;
+}
+
+.AISI .vector-161 {
+  height: 97px;
+  left: 144px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 87px;
+  width: 64px;
+}
+
+.AISI .rectangle-3 {
+  height: 37px;
+  left: 124px;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.AISI .vector-162 {
+  height: 12px;
+  left: 136px;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.AISI .vector-163 {
+  height: 9px;
+  left: 141px;
+  position: absolute;
+  top: 15px;
+  width: 12px;
+}
+
+.AISI .vector-164 {
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 138px;
+}
+
+.AISI .vector-165 {
+  height: 1px;
+  left: 122px;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.AISI .vector-166 {
+  height: 19px;
+  left: 144px;
+  position: absolute;
+  top: 161px;
+  width: 32px;
+}
+
+.AISI .vector-167 {
+  height: 10px;
+  left: 96px;
+  position: absolute;
+  top: 226px;
+  width: 16px;
+}
+
+.AISI .vector-168 {
+  height: 2px;
+  left: 317px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 114px;
+  width: 27px;
+}
+
+.AISI .vector-169 {
+  height: 10px;
+  left: 318px;
+  position: absolute;
+  top: 105px;
+  width: 4px;
+}
+
+.AISI .img-3 {
+  height: 30px;
+  left: 310px;
+  position: absolute;
+  top: 78px;
+  width: 19px;
+}
+
+.AISI .vector-170 {
+  height: 10px;
+  left: 49px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 119px;
+  width: 32px;
+}
+
+.AISI .vector-171 {
+  height: 37px;
+  left: 144px;
+  position: absolute;
+  top: 106px;
+  width: 32px;
+}
+
+.AISI .vector-172 {
+  height: 37px;
+  left: 144px;
+  position: absolute;
+  top: 125px;
+  width: 32px;
+}
+
+.AISI .vector-173 {
+  height: 37px;
+  left: 176px;
+  position: absolute;
+  top: 106px;
+  width: 32px;
+}
+
+.AISI .vector-174 {
+  height: 37px;
+  left: 176px;
+  position: absolute;
+  top: 125px;
+  width: 32px;
+}
+
+.AISI .vector-175 {
+  height: 37px;
+  left: 144px;
+  position: absolute;
+  top: 143px;
+  width: 32px;
+}
+
+.AISI .vector-176 {
+  height: 37px;
+  left: 176px;
+  position: absolute;
+  top: 143px;
+  width: 32px;
+}
+
+.AISI .vector-177 {
+  height: 37px;
+  left: 17px;
+  position: absolute;
+  top: 50px;
+  width: 32px;
+}
+
+.AISI .vector-178 {
+  height: 37px;
+  left: 17px;
+  position: absolute;
+  top: 68px;
+  width: 32px;
+}
+
+.AISI .vector-179 {
+  height: 37px;
+  left: 49px;
+  position: absolute;
+  top: 50px;
+  width: 32px;
+}
+
+.AISI .vector-180 {
+  height: 37px;
+  left: 49px;
+  position: absolute;
+  top: 68px;
+  width: 32px;
+}
+
+.AISI .vector-181 {
+  height: 37px;
+  left: 17px;
+  position: absolute;
+  top: 87px;
+  width: 32px;
+}
+
+.AISI .vector-182 {
+  height: 37px;
+  left: 49px;
+  position: absolute;
+  top: 87px;
+  width: 32px;
+}
+
+.AISI .vector-183 {
+  height: 5px;
+  left: 62px;
+  position: absolute;
+  top: 233px;
+  width: 5px;
+}
+
+.AISI .vector-184 {
+  height: 9px;
+  left: 74px;
+  position: absolute;
+  top: 227px;
+  width: 5px;
+}
+
+.AISI .vector-185 {
+  height: 9px;
+  left: 20px;
+  position: absolute;
+  top: 158px;
+  width: 5px;
+}
+
+.AISI .vector-186 {
+  height: 9px;
+  left: 85px;
+  position: absolute;
+  top: 233px;
+  width: 5px;
+}
+
+.AISI .vector-187 {
+  height: 5px;
+  left: 281px;
+  position: absolute;
+  top: 159px;
+  width: 5px;
+}
+
+.AISI .vector-188 {
+  height: 9px;
+  left: 291px;
+  position: absolute;
+  top: 153px;
+  width: 5px;
+}
+
+.AISI .overlap-3 {
+  height: 74px;
+  left: 176px;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.AISI .vector-189 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.AISI .vector-190 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 32px;
+}
+
+.AISI .vector-191 {
+  height: 37px;
+  left: 32px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.AISI .vector-192 {
+  height: 37px;
+  left: 32px;
+  position: absolute;
+  top: 19px;
+  width: 32px;
+}
+
+.AISI .vector-193 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 37px;
+  width: 32px;
+}
+
+.AISI .vector-194 {
+  height: 37px;
+  left: 32px;
+  position: absolute;
+  top: 37px;
+  width: 32px;
+}
+
+.AISI .text-wrapper {
+  color: #f7931a;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  width: 670px;
+}
+
+.AISI .text-wrapper-2 {
+  color: #f7931a;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 916px;
+  width: 670px;
+}
+
+.AISI .text-wrapper-3 {
+  color: #f7931a;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 548px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 504px;
+  width: 670px;
+}
+
+.AISI .p {
+  color: #ffffff80;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 174px;
+  width: 670px;
+}
+
+.AISI .element-AISI {
+  color: #ffffff80;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 970px;
+  width: 670px;
+}
+
+.AISI .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 917px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 1159px;
+}
+
+.AISI .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 917px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 1191px;
+}
+
+.AISI .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 917px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 1223px;
+}
+
+.AISI .text-wrapper-7 {
+  color: #ffffff80;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 548px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 558px;
+  width: 670px;
+}
+
+.AISI .group-2 {
+  height: 297px;
+  left: 830px;
+  position: absolute;
+  top: 834px;
+  width: 350px;
+}
+
+.AISI .overlap-4 {
+  height: 870px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.AISI .frame-2 {
+  background-image: url(https://c.animaapp.com/dLbGVLnF/img/the-light-sn-1125x2436-1.png);
+  background-size: 100% 100%;
+  height: 870px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.AISI .union {
+  height: 152px;
+  left: 633px;
+  position: absolute;
+  top: 440px;
+  width: 174px;
+}
+
+.AISI .rectangle-4 {
+  background: linear-gradient(180deg, rgb(11, 11, 13) 0%, rgba(11, 11, 13, 0) 100%);
+  height: 228px;
+  left: 0;
+  position: absolute;
+  top: 642px;
+  width: 1440px;
+}
+
+.AISI .div-2 {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 58px;
+  font-weight: 700;
+  left: 245px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 210px;
+  width: 949px;
+}
+
+.AISI .span {
+  color: #ffffff;
+}
+
+.AISI .text-wrapper-8 {
+  color: #f7931a;
+}
+
+.AISI .frame-3 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #0b0b0dcc;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #f7931a;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.AISI .frame-4 {
+  height: 24px;
+  left: 1315px;
+  position: absolute;
+  top: 27px;
+  width: 94px;
+}
+
+.AISI .frame-5 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.AISI .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.AISI .frame-6 {
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 19px;
+  width: 143px;
+}
+
+.AISI .aisilogo {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.AISI .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 21.2px;
+  font-weight: 700;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+}
+
+.AISI .overlap-wrapper {
+  background-image: url(https://c.animaapp.com/dLbGVLnF/img/rectangle-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 2px solid;
+  border-color: #f7931a;
+  box-shadow: 0px 8px 18px #c26b001a, 0px 33px 33px #c26b0017, 0px 75px 45px #c26b000d, 0px 134px 53px #c26b0003,
+    0px 209px 58px transparent;
+  height: 385px;
+  left: 80px;
+  position: absolute;
+  top: 992px;
+  width: 1280px;
+}
+
+.AISI .overlap-5 {
+  background-color: #f7931a;
+  height: 385px;
+  position: relative;
+}
+
+.AISI .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 33.8px;
+  font-weight: 700;
+  left: 420px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 229px;
+}
+
+.AISI .aisilogo-2 {
+  height: 84px;
+  left: 597px;
+  position: absolute;
+  top: 84px;
+  width: 84px;
+}
+
+.AISI .rectangle-5 {
+  background-color: #f7931a;
+  height: 4px;
+  left: 1086px;
+  position: absolute;
+  top: 2px;
+  width: 58px;
+}
+
+.AISI .rectangle-6 {
+  background-color: #f7931a;
+  height: 4px;
+  left: 93px;
+  position: absolute;
+  top: 379px;
+  width: 58px;
+}
+
+.AISI .frame-7 {
+  height: 72px;
+  left: 1208px;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.AISI .rectangle-7 {
+  background-color: #f7931a;
+  height: 36px;
+  left: 36px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.AISI .rectangle-8 {
+  background-color: #f7931a;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 36px;
+}
+
+.AISI .frame-8 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 313px;
+  width: 72px;
+}
+
+.AISI .text-wrapper-12 {
+  color: #f7931a;
+  font-family: "Inter", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1616px;
+  white-space: nowrap;
+}
+
+.AISI .text-wrapper-13 {
+  color: #f7931a;
+  font-family: "Inter", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3043px;
+  width: 670px;
+}
+
+.AISI .text-wrapper-14 {
+  color: #f7931a;
+  font-family: "Inter", Helvetica;
+  font-size: 45px;
+  font-weight: 700;
+  left: 689px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2365px;
+  width: 670px;
+}
+
+.AISI .element {
+  color: #ffffff80;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 1705px;
+  width: 670px;
+}
+
+.AISI .element-ETH {
+  color: #ffffff80;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 3186px;
+  width: 670px;
+}
+
+.AISI .brc {
+  color: #ffffff80;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 689px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 2454px;
+  width: 670px;
+}
+
+.AISI .frame-9 {
+  background-image: url(https://c.animaapp.com/dLbGVLnF/img/rectangle-5-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 549px;
+  left: 831px;
+  position: absolute;
+  top: 1517px;
+  width: 529px;
+}
+
+.AISI .frame-10 {
+  height: 72px;
+  left: 457px;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.AISI .frame-11 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 477px;
+  width: 72px;
+}
+
+.AISI .aisilogo-3 {
+  height: 42px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 42px;
+}
+
+.AISI .overlap-group-wrapper {
+  background-image: url(https://c.animaapp.com/dLbGVLnF/img/rectangle-5-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 549px;
+  left: 831px;
+  position: absolute;
+  top: 2935px;
+  width: 529px;
+}
+
+.AISI .overlap-6 {
+  height: 699px;
+  position: relative;
+  width: 609px;
+}
+
+.AISI .frame-12 {
+  height: 144px;
+  left: 91px;
+  position: absolute;
+  top: 84px;
+  width: 151px;
+}
+
+.AISI .frame-13 {
+  height: 635px;
+  left: 54px;
+  position: absolute;
+  top: 64px;
+  width: 555px;
+}
+
+.AISI .frame-14 {
+  background-image: url(https://c.animaapp.com/dLbGVLnF/img/rectangle-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 549px;
+  left: 80px;
+  position: absolute;
+  top: 2226px;
+  width: 529px;
+}
+
+.AISI .frame-15 {
+  height: 72px;
+  left: 457px;
+  position: absolute;
+  top: 477px;
+  transform: rotate(180deg);
+  width: 72px;
+}
+
+.AISI .rectangle-9 {
+  background-color: #f7931a;
+  height: 36px;
+  left: 36px;
+  position: absolute;
+  top: 36px;
+  width: 36px;
+}
+
+.AISI .rectangle-10 {
+  background-color: #f7931a;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.AISI .union-2 {
+  height: 40px;
+  left: 243px;
+  position: absolute;
+  top: 107px;
+  width: 46px;
+}
+
+.AISI .div-wrapper {
+  height: 649px;
+  left: 0;
+  position: absolute;
+  top: 3640px;
+  width: 1440px;
+}
+
+.AISI .overlap-7 {
+  height: 649px;
+  position: relative;
+}
+
+.AISI .image {
+  height: 56px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.AISI .rectangle-11 {
+  background-color: #ff9a00;
+  height: 546px;
+  left: 0;
+  position: absolute;
+  top: 51px;
+  width: 1440px;
+}
+
+.AISI .image-2 {
+  height: 56px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 594px;
+  width: 1440px;
+}
+
+.AISI .text-wrapper-15 {
+  color: #0b0b0d;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 525px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 89px;
+  white-space: nowrap;
+}
+
+.AISI .text-wrapper-16 {
+  color: #0b0b0d;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 312px;
+}
+
+.AISI .text-wrapper-17 {
+  color: #0b0b0d;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 469px;
+}
+
+.AISI .text-wrapper-18 {
+  color: #0b0b0d;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 900px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 312px;
+}
+
+.AISI .text-wrapper-19 {
+  color: #0b0b0d;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 900px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 461px;
+}
+
+.AISI .text-wrapper-20 {
+  color: #0b0b0d;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 260px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 344px;
+}
+
+.AISI .text-wrapper-21 {
+  color: #0b0b0d;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 260px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 501px;
+  width: 377px;
+}
+
+.AISI .text-wrapper-22 {
+  color: #0b0b0d;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 900px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 344px;
+  width: 379px;
+}
+
+.AISI .text-wrapper-23 {
+  color: #0b0b0d;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 900px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  top: 493px;
+  width: 379px;
+}
+
+.AISI .element-KOL-KOL {
+  color: #0b0b0d;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 141px;
+  width: 1280px;
+}
+
+.AISI .rectangle-12 {
+  height: 101px;
+  left: 140px;
+  position: absolute;
+  top: 287px;
+  width: 520px;
+}
+
+.AISI .rectangle-13 {
+  height: 136px;
+  left: 140px;
+  position: absolute;
+  top: 428px;
+  width: 520px;
+}
+
+.AISI .rectangle-14 {
+  height: 101px;
+  left: 780px;
+  position: absolute;
+  top: 287px;
+  width: 520px;
+}
+
+.AISI .rectangle-15 {
+  height: 136px;
+  left: 780px;
+  position: absolute;
+  top: 428px;
+  width: 520px;
+}
+
+.AISI .group-3 {
+  height: 80px;
+  left: 170px;
+  position: absolute;
+  top: 296px;
+  width: 55px;
+}
+
+.AISI .group-4 {
+  height: 72px;
+  left: 805px;
+  position: absolute;
+  top: 299px;
+  width: 79px;
+}
+
+.AISI .group-5 {
+  height: 62px;
+  left: 163px;
+  position: absolute;
+  top: 464px;
+  width: 63px;
+}
+
+.AISI .group-6 {
+  height: 77px;
+  left: 809px;
+  position: absolute;
+  top: 455px;
+  width: 64px;
+}
+
+.AISI .frame-16 {
+  height: 343px;
+  left: 597px;
+  position: absolute;
+  top: 296px;
+  width: 372px;
+}
+
+.AISI .frame-17 {
+  background-color: #0b0b0d;
+  border-color: #f7931a;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 5865px;
+  width: 1440px;
+}
+
+.AISI .frame-18 {
+  height: 40px;
+  left: 79px;
+  position: absolute;
+  top: 37px;
+  width: 143px;
+}
+
+.AISI .text-wrapper-24 {
+  color: #868b8f;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 16px;
+  left: 79px;
+  letter-spacing: -0.24px;
+  line-height: 16px;
+  position: absolute;
+  top: 86px;
+  white-space: nowrap;
+}
+
+.AISI .overlap-8 {
+  height: 30px;
+  left: 1168px;
+  position: absolute;
+  top: 57px;
+  width: 192px;
+}
+
+.AISI .frame-19 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 192px;
+}
+
+.AISI .element-2 {
+  background-image: url(https://c.animaapp.com/dLbGVLnF/img/brand---twitter-2.svg);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.AISI .frame-20 {
+  height: 30px;
+  left: 108px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.AISI .overlap-group-3 {
+  height: 25px;
+  left: 3px;
+  position: relative;
+  top: 4px;
+  width: 27px;
+}
+
+.AISI .element-3 {
+  background-image: url(https://c.animaapp.com/dLbGVLnF/img/4-1@2x.png);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.AISI .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 6.4px;
+  font-weight: 400;
+  height: 9px;
+  left: 17px;
+  letter-spacing: -0.13px;
+  line-height: 8.5px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.AISI .frame-21 {
+  height: 30px;
+  left: 162px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.AISI .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 6.4px;
+  font-weight: 400;
+  height: 9px;
+  left: 18px;
+  letter-spacing: -0.13px;
+  line-height: 8.5px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.AISI .frame-22 {
+  background-image: url(https://c.animaapp.com/dLbGVLnF/img/brand---twitter-2.svg);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 54px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.AISI .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Neue Haas Grotesk Text Pro-55Roman", Helvetica;
+  font-size: 6.4px;
+  font-weight: 400;
+  height: 9px;
+  left: 21px;
+  letter-spacing: -0.13px;
+  line-height: 8.5px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
